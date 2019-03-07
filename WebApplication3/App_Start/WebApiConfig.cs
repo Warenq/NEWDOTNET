@@ -13,7 +13,6 @@ namespace WebApplication3
 
             // Itinéraires de l'API Web
             config.MapHttpAttributeRoutes();
-
         }
     }
 }
